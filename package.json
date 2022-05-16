@@ -1,0 +1,11 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "My first precomercial use of node.js external packages with npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "check this"
+  },
+  "author": "Francis Ngigi",
+  "license": "ISC"
+}
